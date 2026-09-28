@@ -2,6 +2,12 @@
 
 A content-based movie recommendation system that uses Natural Language Processing (NLP) and movie metadata to recommend similar movies.
 
+## Dataset
+
+The dataset files (`df.pkl` and CSV) are hosted on Google Drive.
+
+[Access Dataset Files](https://drive.google.com/drive/folders/1HQTebFi9DieyJsUNMDRDfSskGbz2n4g_?usp=drive_link)
+
 ## Project Workflow
 
 - Data Cleaning
